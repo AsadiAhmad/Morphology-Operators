@@ -15,3 +15,6 @@ This project demonstrates how to implement basic morphological operations—eros
 - Google Colab : Best Space for running Jupyter Notebook with hosted server
 - Numpy : Best Library for working with arrays in python
 
+## 🪪 License
+
+This project is licensed under the MIT License.
